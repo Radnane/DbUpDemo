@@ -1,0 +1,33 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27703.2042
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{00D1A9C2-B5F0-4AF3-8072-F6C62B433612}") = "DbupDemo.Database", "DbupDemo.Database\DbupDemo.Database.sqlproj", "{459E6714-6831-413F-946E-AFE0AAD6C7A0}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "DbupDemo.Database.Migration", "DbupDemo.Database.Migration\DbupDemo.Database.Migration.csproj", "{2A9D107F-3915-4966-98C1-119BC95E51A0}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Release|Any CPU.Build.0 = Release|Any CPU
+		{459E6714-6831-413F-946E-AFE0AAD6C7A0}.Release|Any CPU.Deploy.0 = Release|Any CPU
+		{2A9D107F-3915-4966-98C1-119BC95E51A0}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2A9D107F-3915-4966-98C1-119BC95E51A0}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2A9D107F-3915-4966-98C1-119BC95E51A0}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2A9D107F-3915-4966-98C1-119BC95E51A0}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7CF909F5-1840-441E-B298-E22D14C3C321}
+	EndGlobalSection
+EndGlobal

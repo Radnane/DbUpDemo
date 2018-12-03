@@ -1,0 +1,1 @@
+"DbupDemo.Database.Migration.exe" -cs "Data Source=(localdb)\MSSQLLocalDB;Initial Catalog=DbUpDemo;Integrated Security=True;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False" -d "scripts" -e
