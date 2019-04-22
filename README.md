@@ -79,9 +79,11 @@ static void Main(string[] args)
 }
 ```
 
+> En ligne de commande, il est plus facile de l'inclure dans les piplines d'intégration et de livraison continues.
+
 ## Références 
 • Vous trouverez ici [La doc DbUp](https://dbup.readthedocs.io/en/latest/).
 
-> Amusez-vous bien 🙂 ! 
+> **Amusez-vous bien 🙂 !**
 
 
