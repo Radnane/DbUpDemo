@@ -1,4 +1,3 @@
-# DbUpDemo
 # Comment versionner une base de données ?
 Commençons par le début, notre premier sprint. Il se passe bien, notre socle est prêt, notre premier écran est là avec une première table. Tout va bien🙂 !
 Pour la base de données, nous avons créé un Database Project, le script de création de notre unique table est dedans, il est donc versionné avec le code source de l’application.
